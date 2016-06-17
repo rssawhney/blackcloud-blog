@@ -47,13 +47,15 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Kolkata
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 paginate:    5
 paginate_path: "page:num"
 
+gems: [jekyll-paginate]
+
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+#permalink:   /:categories/:title
 
 kramdown:
   auto_ids: true

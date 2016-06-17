@@ -6,7 +6,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/404</loc>
+        <loc>http://localhost:4000/404.html</loc>
     </url>
     
     <url>
@@ -38,5 +38,9 @@
     </url>
     
 
+    
+    <url>
+        <loc>http://localhost:4000/environment/2016/06/17/artificial-rain.html</loc>
+    </url>
     
 </urlset>
