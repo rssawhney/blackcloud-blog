@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://localhost:4000</loc>
+        <loc>http://rssawhney.github.io/blackcloud-blog</loc>
     </url>
     
     
     <url>
-        <loc>http://localhost:4000/404.html</loc>
+        <loc>http://rssawhney.github.io/blackcloud-blog/404.html</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/categories/index.html</loc>
+        <loc>http://rssawhney.github.io/blackcloud-blog/categories/index.html</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/featured/</loc>
+        <loc>http://rssawhney.github.io/blackcloud-blog/featured/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/</loc>
+        <loc>http://rssawhney.github.io/blackcloud-blog/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/links.jsonp</loc>
+        <loc>http://rssawhney.github.io/blackcloud-blog/links.jsonp</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/search.json</loc>
+        <loc>http://rssawhney.github.io/blackcloud-blog/search.json</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/sitemap.xml</loc>
+        <loc>http://rssawhney.github.io/blackcloud-blog/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/tags/index.html</loc>
+        <loc>http://rssawhney.github.io/blackcloud-blog/tags/index.html</loc>
     </url>
     
 
     
     <url>
-        <loc>http://localhost:4000/environment/2016/06/17/artificial-rain.html</loc>
+        <loc>http://rssawhney.github.io/blackcloud-blog/environment/2016/06/17/artificial-rain.html</loc>
     </url>
     
 </urlset>
